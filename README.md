@@ -33,8 +33,6 @@ Example:
 - **Virtualization Platform**: [VirtualBox, VMware Workstation, etc.]
 - **Number of VMs**: [Total VMs and their roles]
 
-```bash
-# Example network config
-Windows10: 192.168.1.10
-Kali:      192.168.1.20
-Ubuntu SIEM: 192.168.1.30
+  ## 🧪 Walk-Through
+
+
